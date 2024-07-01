@@ -1,3 +1,4 @@
 ## 안녕하세요! 👋👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SUPERDODGE&fontSize=90)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjh5696&layout=compact)](https://github.com/yjh5696/github-readme-stats)
