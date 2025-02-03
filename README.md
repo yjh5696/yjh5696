@@ -6,7 +6,7 @@
   ### ✉️MAIL
   [![yjh01209@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yjh01209@gmail.com)
   ### ✏️Portfolio
-  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://subdued-volcano-bac.notion.site/8f89bb512543474ea8f7557f2e8ad594)
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://subdued-volcano-bac.notion.site/0d092a518f324ef3a5d517a998c948e3?pvs=4)
   ### 🛠️SKILLS
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
